@@ -1,14 +1,21 @@
 # Mérési Feladat – Antennák nyereségének összehasonlítása három vételi ponton  
 
 Ez a feladat lehetőséget biztosít arra, hogy a hallgatók gyakorlati méréseken keresztül tapasztalják meg, hogyan befolyásolja az antenna típusa a jelminőséget és a nyereséget különböző környezetekben.  
+
 # Cél
 A hallgatók mérjék meg és hasonlítsák össze a SMART HD 550, ISKRA P20 LOGPER és IKUSI FLASHD C48 antennák nyereségét három különböző vételi ponton. A mérések során a METEK HD spektrum/jelszint analizátor segítségével mérjék a jelszintet, majd értékeljék az antennák teljesítményét.  
 
 ## Eszközök
 
-- SMART HD 550 antenna  
-- ISKRA P20 LOGPER antenna  
-- IKUSI FLASHD C48 antenna  
+
+-Opticum Smart HD 550 szobaantenna <img width="420" height="430" alt="image" src="https://github.com/user-attachments/assets/2736f478-b9a1-4031-82dc-7eac2eca38d4" />  
+ 
+
+- ISKRA P20 LOGPER antenna  <img width="420" height="250" alt="image" src="https://github.com/user-attachments/assets/9e948881-93aa-4615-bd64-2486f424c015" />    
+  
+
+- ISKRA P-2845 F LOGPER <img width="420" height="450" alt="image" src="https://github.com/user-attachments/assets/bcece7a9-085f-4ed3-b929-1f2798e99000" />   
+  
 - RF kábel  
 - METEK HD spektrum/jelszint analizátor  
 - Laptop a jegyzőkönyv készítéséhez  
@@ -23,6 +30,11 @@ A hallgatók mérjék meg és hasonlítsák össze a SMART HD 550, ISKRA P20 LOG
 - Mért jelszint: dBm-ben kifejezve
 - Rögzítsék a mért értékeket mindhárom antennánál, minden vételi ponton.
 
+## Csatorna, adás amit mértünk és vettünk:  
+Miskolc TV  
+Ferkvencia: 634MHz  
+Csatorna: 41  
+  
 ## 3. Jegyzőkönyv készítése  
 - A jegyzőkönyvben rögzítsék a következő adatokat:
 - Antenna típusa
@@ -55,3 +67,7 @@ A hallgatók mérjék meg és hasonlítsák össze a SMART HD 550, ISKRA P20 LOG
 # Időtartam  
 - Antennák telepítése és mérések mindhárom vételi ponton: 60 perc  
 - Jegyzőkönyv készítése és kiértékelés: 30 perc  
+
+
+Aláírás: Mező Gergő
+Dátum: 2025.10.17
