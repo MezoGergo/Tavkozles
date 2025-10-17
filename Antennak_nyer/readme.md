@@ -3,7 +3,7 @@
 Ez a feladat lehetőséget biztosít arra, hogy a hallgatók gyakorlati méréseken keresztül tapasztalják meg, hogyan befolyásolja az antenna típusa a jelminőséget és a nyereséget különböző környezetekben.  
 
 # Cél
-A hallgatók mérjék meg és hasonlítsák össze a SMART HD 550, ISKRA P20 LOGPER és IKUSI FLASHD C48 antennák nyereségét három különböző vételi ponton. A mérések során a METEK HD spektrum/jelszint analizátor segítségével mérjék a jelszintet, majd értékeljék az antennák teljesítményét.  
+A hallgatók mérjék meg és hasonlítsák össze a SMART HD 550, ISKRA P20 LOGPER és ISKRA P-2845 F LOGPER antennák nyereségét három különböző vételi ponton. A mérések során a METEK HD spektrum/jelszint analizátor segítségével mérjék a jelszintet, majd értékeljék az antennák teljesítményét.  
 
 ## Eszközök
 
@@ -55,10 +55,10 @@ Csatorna: 41
 ## Észrevételek:  
 - Vételi pont 1: Kültéri környezet, erős jel, minimális interferencia. Az IKUSI FLASHD C48 antenna adta a legjobb jelszintet.  
 - Vételi pont 2: Beltéri helyiség, közepes jelminőség. Az ISKRA P20 LOGPER antenna mutatott közepes teljesítményt, de az IKUSI antenna itt is jobb volt.  
-- Vételi pont 3: Távoli, zárt tér, gyengébb jelminőség. Az IKUSI FLASHD C48 antenna továbbra is erős jelnyereséget mutatott, míg a SMART HD 550 antenna itt gyengébb teljesítményt adott.  
+- Vételi pont 3: Távoli, zárt tér, gyengébb jelminőség. Az ISKRA P-2845 F LOGPER antenna továbbra is erős jelnyereséget mutatott, míg a SMART HD 550 antenna itt gyengébb teljesítményt adott.  
 
 ## Következtetések:  
-- Az IKUSI FLASHD C48 antenna minden vételi ponton a legjobb jelszintet biztosította, köszönhetően a magas nyereségének és irányított karakterisztikájának.  
+- Az ISKRA P-2845 F LOGPER antenna minden vételi ponton a legjobb jelszintet biztosította, köszönhetően a magas nyereségének és irányított karakterisztikájának.  
 - Az ISKRA P20 LOGPER antenna megfelelő választás lehet, ha kisebb méretű, könnyen telepíthető antennára van szükség, de valamivel alacsonyabb jelminőséget nyújtott.  
 - A SMART HD 550 antenna a gyengébb vételi pontokon mutatott kevésbé kedvező eredményeket, különösen zárt térben.  
 
