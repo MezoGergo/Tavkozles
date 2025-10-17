@@ -7,15 +7,12 @@ A hallgatók mérjék meg és hasonlítsák össze a SMART HD 550, ISKRA P20 LOG
 
 ## Eszközök
 
+| Syntax      | Description |
+| ----------- | ----------- |
+| Opticum Smart HD 550 szobaantenna     |   <img width="240" height="320" alt="image" src="https://github.com/user-attachments/assets/2736f478-b9a1-4031-82dc-7eac2eca38d4" /> |  
+|  ISKRA P20 LOGPER antenna  | <img width="370" height="300" alt="image" src="https://github.com/user-attachments/assets/9e948881-93aa-4615-bd64-2486f424c015" /> |  
+| ISKRA P-2845 F LOGPER | <img width="800" height="488" alt="image" src="https://github.com/user-attachments/assets/18d2ef49-fc1d-4127-b676-5a52ae4c3869" /> |    
 
--Opticum Smart HD 550 szobaantenna <img width="420" height="430" alt="image" src="https://github.com/user-attachments/assets/2736f478-b9a1-4031-82dc-7eac2eca38d4" />  
- 
-
-- ISKRA P20 LOGPER antenna  <img width="420" height="250" alt="image" src="https://github.com/user-attachments/assets/9e948881-93aa-4615-bd64-2486f424c015" />    
-  
-
-- ISKRA P-2845 F LOGPER <img width="420" height="450" alt="image" src="https://github.com/user-attachments/assets/bcece7a9-085f-4ed3-b929-1f2798e99000" />   
-  
 - RF kábel  
 - METEK HD spektrum/jelszint analizátor  
 - Laptop a jegyzőkönyv készítéséhez  
@@ -23,7 +20,7 @@ A hallgatók mérjék meg és hasonlítsák össze a SMART HD 550, ISKRA P20 LOG
 ## Feladat
 ### 1. Antenna telepítése és mérés a vételi pontokon
 - Válasszanak ki három különböző vételi pontot (pl. a laborban és az épület két másik pontján, beltéri és kültéri környezetben).  
-- Minden vételi ponton egymás után telepítsék a három antennát (SMART HD 550, ISKRA P20 LOGPER és IKUSI FLASHD C48), és a METEK HD spektrum/jelszint analizátorral mérjék meg a jelszintet.  
+- Minden vételi ponton egymás után telepítsék a három antennát (SMART HD 550, ISKRA P20 LOGPER és ISKRA P-2845 F LOGPER), és a METEK HD spektrum/jelszint analizátorral mérjék meg a jelszintet.  
 
 ## 2. Mérési paraméterek
 - Mért frekvencia: 634 MHz (vagy más DVB-T frekvencia)
@@ -49,10 +46,11 @@ Csatorna: 41
 # Jegyzőkönyv sablon  
 ## Mérési eredmények  
 
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| Antenna típusa | Vételi pont 1   (dBm) | Vételi pont 2   (dBm) | Vételi pont 3  (dBm) |  
+| ----------- | ----------- | --------- | ------------ |
+| Smart HD 550 | 59.6 | 44.8 | 73 |  
+| Iskra P20 | 61.8 | 45.4 | 77.1 |  
+| Iskra P-2845 | 66.5 | 60.3 | 80.4 |  
 
 ## Észrevételek:  
 - Vételi pont 1: Kültéri környezet, erős jel, minimális interferencia. Az IKUSI FLASHD C48 antenna adta a legjobb jelszintet.  
