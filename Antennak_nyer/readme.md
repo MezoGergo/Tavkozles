@@ -51,6 +51,14 @@ Csatorna: 41
 | Iskra P20 | 61.8 | 45.4 | 77.1 |  
 | Iskra P-2845 | 66.5 | 60.3 | 80.4 |  
 
+
+| Antenna típusa   | Legjobb frekvencia [MHz] | Nyereség [dBi] |
+| ---------------- | ------------------------ | -------------- |
+| ISKRA P-2845     | 690                      | 10             |
+| ISKRA P20 LOGPER | 670                      | 8              |
+| SMART HD 550     | 640                      | 6              |
+
+
 ## Észrevételek:  
 - Vételi pont 1: Kültéri környezet, közepes jel, minimális interferencia. Az  Iskra P-2845 antenna adta a legjobb jelszintet.  
 - Vételi pont 2: Beltéri helyiség, gyengéb jelminőség. Az ISKRA P20 LOGPER antenna mutatott közepes teljesítményt, de a Iskra P-2845 antenna itt is jobb volt.  
