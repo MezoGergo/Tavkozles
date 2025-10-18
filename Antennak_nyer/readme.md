@@ -11,7 +11,7 @@ A hallgatók mérjék meg és hasonlítsák össze a SMART HD 550, ISKRA P20 LOG
 | ----------- | ----------- |
 | Opticum Smart HD 550 szobaantenna     |   <img width="240" height="320" alt="image" src="https://github.com/user-attachments/assets/2736f478-b9a1-4031-82dc-7eac2eca38d4" /> |  
 |  ISKRA P20 LOGPER antenna  | <img width="370" height="300" alt="image" src="https://github.com/user-attachments/assets/9e948881-93aa-4615-bd64-2486f424c015" /> |  
-| ISKRA P-2845 F LOGPER | <img width="800" height="488" alt="image" src="https://github.com/user-attachments/assets/18d2ef49-fc1d-4127-b676-5a52ae4c3869" /> |    
+| ISKRA P-2845 F LOGPER | <img width="430" height="370" alt="image" src="https://github.com/user-attachments/assets/18d2ef49-fc1d-4127-b676-5a52ae4c3869" /> |    
 
 - RF kábel  
 - METEK HD spektrum/jelszint analizátor  
