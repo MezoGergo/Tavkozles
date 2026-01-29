@@ -20,7 +20,7 @@ A TL071 típusú műveleti erősítővel felépített fázisfordító (invertál
 ## 3. Kapcsolási elrendezés
 Az áramkör egy klasszikus invertáló erősítő kapcsolás. A nem invertáló (+) bemenet a földre van kötve egy ellenálláson keresztül, míg a bemenő jel az invertáló (-) bemenetre érkezik.
 
-*(Ide töltsd fel a kapcsolási rajzot tartalmazó képet, pl: `circuit_diagram.png`)*
+
 <img width="1076" height="650" alt="kapcsolas" src="https://github.com/user-attachments/assets/ccb8aba1-8fd3-4491-9789-d28ca6c9a71f" />
    
 
