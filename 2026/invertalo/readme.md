@@ -21,8 +21,7 @@ A TL071 típusú műveleti erősítővel felépített fázisfordító (invertál
 Az áramkör egy klasszikus invertáló erősítő kapcsolás. A nem invertáló (+) bemenet a földre van kötve egy ellenálláson keresztül, míg a bemenő jel az invertáló (-) bemenetre érkezik.
 
 *(Ide töltsd fel a kapcsolási rajzot tartalmazó képet, pl: `circuit_diagram.png`)*
-![Kapcsolási rajz](<img width="1153" height="645" alt="image" src="https://github.com/user-attachments/assets/841b021f-4abc-4031-b354-00ea05ecd275" />
-)
+![Kapcsolási rajz](<img width="1128" height="632" alt="Képernyőkép 2026-01-29 123312" src="https://github.com/user-attachments/assets/f500424d-b29d-41ce-b0dc-593afdae44b2" />)
 
 ## 4. Elméleti számítások
 
@@ -46,8 +45,8 @@ A bemeneti jelet az NI ELVISmx függvénygenerátorával állítottuk elő:
 * **Amplitúdó:** $1.00\text{ }V_{pp}$
 * **DC eltolás (Offset):** $0.00\text{ V}$
 
-![Függvénygenerátor beállításai](<img width="522" height="597" alt="fuggvenyg" src="https://github.com/user-attachments/assets/46ace809-b93f-4ef6-ace0-35c2ab0dd887" />
-)
+![Függvénygenerátor beállításai](<img width="522" height="597" alt="fuggvenyg" src="https://github.com/user-attachments/assets/8f7de1f1-76c3-4a3c-88e6-48aa2429eedb" />
+ )
 
 ## 6. Mérési eredmények (Oscilloscope)
 Az oszcilloszkópon a sárga csatorna (CH0) a bemeneti jelet, a kék csatorna (CH1) a kimeneti jelet mutatja.
@@ -57,8 +56,8 @@ Az oszcilloszkópon a sárga csatorna (CH0) a bemeneti jelet, a kék csatorna (C
 | **Bemenet (CH0)** | $V_{in}$ | $1.003\text{ V}$ | $100.000\text{ Hz}$ |
 | **Kimenet (CH1)** | $V_{out}$ | $8.379\text{ V}$ | $99.999\text{ Hz}$ |
 
-![Oszcilloszkóp mérés](<img width="1074" height="740" alt="scope" src="https://github.com/user-attachments/assets/94b51111-b86a-46a0-89ed-c8cae0eb105b" />
-)
+![Oszcilloszkóp mérés](<img width="1074" height="740" alt="scope" src="https://github.com/user-attachments/assets/26b0079d-1c04-4049-a966-d1b7d32c7752" />
+ )
 
 ## 7. Kiértékelés
 A mérés során kapott tényleges erősítés meghatározása:
