@@ -46,9 +46,9 @@ A bemeneti jelet az NI ELVISmx függvénygenerátorával állítottuk elő:
 * **Amplitúdó:** $1.00\text{ }V_{pp}$
 * **DC eltolás (Offset):** $0.00\text{ V}$
 
-(<img width="522" height="597" alt="fuggvenyg" src="https://github.com/user-attachments/assets/36abca26-db0a-410f-81d6-d722ee0f43ac" />
+<img width="600" height="600" alt="fuggvenyg" src="https://github.com/user-attachments/assets/36abca26-db0a-410f-81d6-d722ee0f43ac" />
 
- )
+ 
 
 ## 6. Mérési eredmények (Oscilloscope)
 Az oszcilloszkópon a sárga csatorna (CH0) a bemeneti jelet, a kék csatorna (CH1) a kimeneti jelet mutatja.
@@ -58,9 +58,9 @@ Az oszcilloszkópon a sárga csatorna (CH0) a bemeneti jelet, a kék csatorna (C
 | **Bemenet (CH0)** | $V_{in}$ | $1.003\text{ V}$ | $100.000\text{ Hz}$ |
 | **Kimenet (CH1)** | $V_{out}$ | $8.379\text{ V}$ | $99.999\text{ Hz}$ |
 
-(<img width="1074" height="740" alt="scope" src="https://github.com/user-attachments/assets/ca19a4fd-da3c-4731-834b-1e84db54da73" />
+<img width="1000" height="740" alt="scope" src="https://github.com/user-attachments/assets/ca19a4fd-da3c-4731-834b-1e84db54da73" />
 
- )
+ 
 
 ## 7. Kiértékelés
 A mérés során kapott tényleges erősítés meghatározása:
