@@ -21,8 +21,8 @@ A TL071 típusú műveleti erősítővel felépített fázisfordító (invertál
 Az áramkör egy klasszikus invertáló erősítő kapcsolás. A nem invertáló (+) bemenet a földre van kötve egy ellenálláson keresztül, míg a bemenő jel az invertáló (-) bemenetre érkezik.
 
 *(Ide töltsd fel a kapcsolási rajzot tartalmazó képet, pl: `circuit_diagram.png`)*
-![Kapcsolási rajz](<img width="1076" height="650" alt="kapcsolas" src="https://github.com/user-attachments/assets/ccb8aba1-8fd3-4491-9789-d28ca6c9a71f" />
-
+<img width="1076" height="650" alt="kapcsolas" src="https://github.com/user-attachments/assets/ccb8aba1-8fd3-4491-9789-d28ca6c9a71f" />
+   
 
 ## 4. Elméleti számítások
 
@@ -48,7 +48,7 @@ A bemeneti jelet az NI ELVISmx függvénygenerátorával állítottuk elő:
 
 <img width="600" height="600" alt="fuggvenyg" src="https://github.com/user-attachments/assets/36abca26-db0a-410f-81d6-d722ee0f43ac" />
 
- 
+    
 
 ## 6. Mérési eredmények (Oscilloscope)
 Az oszcilloszkópon a sárga csatorna (CH0) a bemeneti jelet, a kék csatorna (CH1) a kimeneti jelet mutatja.
@@ -59,7 +59,7 @@ Az oszcilloszkópon a sárga csatorna (CH0) a bemeneti jelet, a kék csatorna (C
 | **Kimenet (CH1)** | $V_{out}$ | $8.379\text{ V}$ | $99.999\text{ Hz}$ |
 
 <img width="1000" height="740" alt="scope" src="https://github.com/user-attachments/assets/ca19a4fd-da3c-4731-834b-1e84db54da73" />
-
+    
  
 
 ## 7. Kiértékelés
